@@ -46,8 +46,29 @@
 
 ![flag읽기](../../image/2026/2026-1/3주차/cat_flag.png) <br>
 
-<u>***flag{welcome_you_got_first_flag}%*** 를 찾았다!!</u> <br><br>
+<u>***flag{welcome_you_got_first_flag}%***</u> 를 찾았다!!<br><br>
 
+---------
+
+<br><br>
 
 ## example 2
 
+
+1. `ls -al`로 example2에 있는 디렉토리 및 파일을 체킹한다.<br>
+
+
+![example2디렉토리](../../image/2026/2026-1/3주차/example1_directory) <br>
+
+
+2. `cat hello`를 이용해 hello를 읽는다. <br>
+
+![hello읽기](../../image/2026/2026-1/3주차/example1_directory) <br>
+
+
+3. cat hello로는 hello 파일을 해석할 수 없으니 `./hello`를 이용해 hello를 실행시킨다. <br>
+
+![hello실행시키기](../../image/2026/2026-1/3주차/dir1_directory.png) <br>
+
+
+4. <u>***flag{file_read_flag}***</u>  를 찾았다!!<br><br>
