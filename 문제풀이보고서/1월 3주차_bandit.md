@@ -52,26 +52,6 @@
 
 1. `ls -al`로 bandit2에 있는 디렉토리 및 파일을 체킹한다. <br>
 
-![bandit2디렉토리](../image/2026/2026-1/3주차/bandit2_directory.png) <br>
-
-
-2. 파일명이 --spaces in this filename-- 이므로 파일명이 아닌 상대경로와 절대경로를 이용하여 파일을 읽어보자.
-
-    - 절대경로
-    1. `pwd`를 이용하여 현재 위치를 파악한다.
-    2. 현재 위치는 **/home/bandit2**이므로 `cat /home/bandit2/--spaces in this filename--`  을 이용하여 --spaces in this filename-- 파일을 읽는다.
-
-    - 상대경로 
-    1. `cat ./--spaces in this filename--`을 이용하여 --spaces in this filename-- 파일을 읽는다.
-
-비밀번호 <u>***MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx***</u> 를 찾았다!!<br><br>
-
-
-## bandit 2
-
-
-1. `ls -al`로 bandit2에 있는 디렉토리 및 파일을 체킹한다. <br>
-
 ![bandit2디렉토리](../image/2026/2026-1/3주차/bandit2/bandit2_directory.png) <br>
 
 
