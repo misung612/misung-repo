@@ -16,7 +16,7 @@
 
 4. `cat readme`를 이용해 readme를 읽어준다. <br>
 
-![readme읽기] () <br>
+![readme읽기](../image/2026/2026-1/3주차/bandit0/cat_readme.png) <br>
 
 
 비밀번호 <u>***ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If***</u> 를 찾았다!!<br><br>
@@ -52,7 +52,7 @@
 
 1. `ls -al`로 bandit2에 있는 디렉토리 및 파일을 체킹한다. <br>
 
-![bandit2디렉토리](../image/2026/2026-1/3주차/dir1_directory.png) <br>
+![bandit2디렉토리](../image/2026/2026-1/3주차/bandit2_directory.png) <br>
 
 
 2. 파일명이 --spaces in this filename-- 이므로 파일명이 아닌 상대경로와 절대경로를 이용하여 파일을 읽어보자.
