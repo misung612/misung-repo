@@ -30,7 +30,7 @@
 -sh <br>
 
 1. sh, flag 사용 시 **Nah.. I don't like that!** 을 출력하므로 *를 이용해 우회하여 접근할 것이다. <br>
-`;cat fla*`를 이용하여 바로 flag 파일을 읽어내자.
+`;cat fla*`를 이용하여 바로 flag 파일을 읽어내자. <br>
 ![flag 읽기](../../../../image/2026/2026-1/4주차/command_injection2/cat_flag.png) <br>
 
 
@@ -50,10 +50,10 @@
 -pwd <br>
 
 1. 이번에는 명령어 head와 tail, *를 이용해 우회하여 접근할 것이다. <br>
-`;head fla*`를 이용하여 flag 파일의 앞부분을 읽어낸다.
+`;head fla*`를 이용하여 flag 파일의 앞부분을 읽어낸다. <br>
 ![flag 앞부분 읽기](../../../../image/2026/2026-1/4주차/command_injection3/head_flag.png) <br>
 
-2. `;tail fla*`를 이용하여 flag 파일의 뒷부분을 읽어낸다.
+2. `;tail fla*`를 이용하여 flag 파일의 뒷부분을 읽어낸다. <br>
 ![flag 뒷부분 읽기](../../../../image/2026/2026-1/4주차/command_injection3/tail_flag.png) <br>
 
 비밀번호 <u>***flag{head_and_tail}***</u> 를 찾았다!!<br><br>
@@ -78,10 +78,10 @@
 -| <br>
 
 1. 이번에는 명령어 head와 tail, *를 이용해 우회하여 접근할 것이다. <br>
-`;head fla*`를 이용하여 flag 파일의 앞부분을 읽어낸다.
+`;head fla*`를 이용하여 flag 파일의 앞부분을 읽어낸다. <br>
 ![flag 앞부분 읽기](../../../../image/2026/2026-1/4주차/command_injection3/head_flag.png) <br>
 
-2. `;tail fla*`를 이용하여 flag 파일의 뒷부분을 읽어낸다.
+2. `;tail fla*`를 이용하여 flag 파일의 뒷부분을 읽어낸다. <br>
 ![flag 뒷부분 읽기](../../../../image/2026/2026-1/4주차/command_injection3/tail_flag.png) <br>
 
 비밀번호 <u>***flag{head_and_tail}***</u> 를 찾았다!!<br><br>
